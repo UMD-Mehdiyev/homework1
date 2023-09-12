@@ -1,0 +1,3 @@
+Q. What is a remote repository?
+
+A. A remote repository is just a centeral online repository that is hosted on the internet or network, and has a history just like the local repository. 
